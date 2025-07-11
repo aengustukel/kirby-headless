@@ -1,0 +1,99 @@
+Title: Jummaland
+
+----
+
+Localname: Korpos Mohol | Jummo Confederation
+
+----
+
+Continent: Asia
+
+----
+
+Location: Bangladesh
+
+----
+
+Flag:
+
+- jummalandflag.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe:
+
+- bangladeshmap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: Member of UNPO
+
+----
+
+Aboutstate:
+
+Jumma Land refers to the areas inhabited by the Jumma people, a indigenous ethnic group in the Chittagong Hill Tracts region of Bangladesh. The region is known for its rich culture, scenic beauty, and biodiversity, but also faces challenges such as land rights issues and political conflict. The Jummas have struggled for self-determination and autonomy for many years, and their cause has been the subject of international human rights activism.
+
+The Jumma people in Bangladesh have been seeking independence or autonomy for decades. They argue that their unique culture, religion, and way of life are not adequately represented or protected within the larger Bangladeshi state, and have called for greater control over their ancestral lands and resources. This independence movement has faced significant resistance from the Bangladeshi government and military, and has resulted in violence, human rights abuses, and displacement of Jumma people. Despite these challenges, the movement for Jumma independence continues to be an important issue for the community and its supporters.
+
+----
+
+Independence: 
+
+----
+
+Population: 350,000–600,000
+
+----
+
+Populationnote: 2015 ESTIAMTE
+
+----
+
+Languages:
+
+- 
+  language: Kikongo
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Bakongo
+
+----
+
+Religions:
+
+- 
+  religion: Catholic
+
+----
+
+References: 
+
+----
+
+Map:
+
+- jummalandmap-2.png
+
+----
+
+Mapsize: col-7
+
+----
+
+Meta-description: 
+
+----
+
+Capital: Cabinda

@@ -1,0 +1,85 @@
+Title: Tibet
+
+----
+
+Localname: Bod Yul
+
+----
+
+Continent: Asia
+
+----
+
+Location: China
+
+----
+
+Flag:
+
+- tibetflag.svg
+
+----
+
+Flagborder: false
+
+----
+
+Globe:
+
+- chinamap.png
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+Tibet has a rich cultural and religious heritage and was a distinct political entity for centuries. In the early 20th century, China's control over Tibet was limited, but after the communist takeover in 1949, the new Chinese government sought to exert greater control over the region. In 1950, Chinese forces invaded Tibet and by 1951, the Chinese had established a formal military presence in the region. In the following years, the Chinese government implemented policies aimed at assimilating Tibet and suppressing Tibetan culture and religion. These policies led to widespread resistance among the Tibetan people and eventually to the failed Tibetan Uprising of 1959, after which the Dalai Lama, the spiritual and political leader of the Tibetan people, fled to India, where he established a government-in-exile.
+
+Since then, the Tibetan independence movement has taken a variety of forms, including peaceful protests, cultural preservation efforts, and acts of resistance against Chinese rule. In the late 1980s and early 1990s, there was a wave of protests in Tibet, including demonstrations by Buddhist monks, that drew international attention to the situation in the region. In recent years, there has been a resurgence of interest in the cause of Tibetan independence, with a new generation of young Tibetans taking up the mantle of the independence movement and using social media and other tools to raise awareness of their cause.
+
+Despite the efforts of the exiled Tibetan government and its supporters, the situation on the ground remains challenging, with the Chinese government maintaining a strong military presence in the region and continuing to implement policies aimed at suppressing Tibetan culture and religion. However, the cause of Tibetan independence remains a matter of ongoing political and diplomatic discussion, and the future of Tibet and its relationship with China remains uncertain.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- tibetmap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

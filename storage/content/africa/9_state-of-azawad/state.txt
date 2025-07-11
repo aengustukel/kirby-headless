@@ -1,0 +1,86 @@
+Title: State of Azawad
+
+----
+
+Localname: État de l’Azawad
+
+----
+
+Continent: Africa
+
+----
+
+Location: Mali
+
+----
+
+Flag: - azawad_flag.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - malimap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Aboutstate:
+
+Ethnic Berbers from North Africa have gradually migrated into the Sahara since ancient times. Many Berbers fled south during the Arab invasion in the 700s CE. In the Sahara they adapted to a nomadic desert existence and split into tribes that controlled the trans-Saharan trade routes. In the 1000s the Tuaregs occupied the fertile valleys just south of the Sahara, where they created powerful states that became centers of Muslim culture and learning. The Tuaregs resisted the French colonial invasion in 1898 but were no match for mechanized weaponry. In 1905 the Tuaregs of French Sudan were forced to accept colonial rule.
+
+The Tuaregs of Mali are divided into tribal confederations that share a common language, history, and culture. Historically Tuareg society is highly stratified, with loyalty to the kel or confederation the basis of the culture. Unlike in most Muslim societies, Tuareg women are unveiled, though men often wear veils and turbans of indigo blue. The Tuaregs speak closely related dialects of Tamachek, a Berber language. Most Tuaregs are Sunni Muslims of the Maliki rite that incorporates many pre-Islamic rituals.
+
+In 1960 French Sudan gained independence as Mali under a government controlled by the black African tribes historically taken as slaves by the Tuaregs. Competition for resources led to conflicts with the black African tribes. Tuareg discontent erupted in rebellion in northern Mali in 1990–92. Marginalization and neglect spurred a renewed rebellionin 2012, with the independence of Azawad declared. Radical Islamists appeared, fighting both Tuaregs and government troops. The Tuareg nationalists gained the upper hand, but the situation remains unsettled. In mid-2015 some Tuaregs signed a peace deal that will give Azawad autonomy, though other groups continue to fight for independence.
+
+----
+
+Independence: 
+
+----
+
+Population: 1.3-1.5 Million
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: - azawadmap_green-purple.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Uuid: tIHJp2vNybiPQ2bA

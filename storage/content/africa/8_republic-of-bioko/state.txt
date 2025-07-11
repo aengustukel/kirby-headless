@@ -1,0 +1,86 @@
+Title: Republic of Bioko
+
+----
+
+Localname: República Otcho
+
+----
+
+Continent: Africa
+
+----
+
+Location: Equatorial Guinea
+
+----
+
+Flag: - bubi_tribal_flag.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - equatorialguinea.png
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The island of Bioko was populated from the African mainland, the various groups gradually coalescing as a distinct island people. Visited by Portuguese explorer Fernão do Pó in 1472, the island was christened with his name as Fernando Pó. The island served as a center of the Portuguese slave trade until it was ceded to Spain in 1778. The Spanish, seeing little value in the island, allowed the British to use it as a base for the suppression of the slave trade in 1827. Many rescued slaves were settled on the island, where they are known as Fernandinos. Bioko was returned to Spain in 1843, forming a separate colony until united with mainland Río Muni in 1885.
+
+The Bubis are a Bantu people thought to have developed from groups of migrants and refugees from the African mainland. The culture and dialect developed in isolation, with many customs and cultural traits unique in Africa. The language, laced with Portuguese, Spanish, and Igbo borrowings, is part of the Bube-Benga group of the Northwest Bantu languages. Most are nominally Roman Catholic, though traditional beliefs remain strong.
+
+Ethnic tensions between the more prosperous Bubis and the mainland Fangs, the colony’s largest ethnic group, raised tensions in the 1950s. The Bubis demanded separate status, fearing an end to Spanish rule would bring an invasion of ethnic Fangs. Equatorial Guinea’s independence in 1968 deteriorated into brutal dictatorships and instability that stimulated Bubi discontent and nationalism. By 2000 the Bubis were a minority in their island homeland. The discovery of oil in the island’s waters in 1995 gave the movement an economic base in the 2000s.
+
+----
+
+Independence: 2017-01-12
+
+----
+
+Population: 120,000–170,000
+
+----
+
+Populationnote: 2015 Estimate
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Bubis
+
+----
+
+Map: - biokomappink.jpg
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Uuid: oLlrOfhTdw5yZB0X

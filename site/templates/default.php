@@ -1,15 +1,10 @@
-<?php
+<?php snippet('header') ?>
 
-/** @var \Kirby\Cms\Page $page */
+<article>
+  <h1 class="h1"><?= $page->title()->html() ?></h1>
+  <div class="text">
+    <?= $page->text()->kt() ?>
+  </div>
+</article>
 
-$data = [
-  '__meta' => [
-    'template' => $page->intendedTemplate()->name(),
-    'isHomePage' => $page->isHomePage(),
-    'isErrorPage' => $page->isErrorPage()
-  ],
-  'title' => $page->title()->value(),
-  'text' => $page->text()->kirbytext()->value(),
-];
-
-echo \Kirby\Data\Json::encode($data);
+<?php snippet('footer') ?>

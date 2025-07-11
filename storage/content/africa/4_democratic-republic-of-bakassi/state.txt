@@ -1,0 +1,103 @@
+Title: Democratic Republic of Bakassi
+
+----
+
+Localname: 
+
+----
+
+Continent: Africa
+
+----
+
+Location: Cameroon
+
+----
+
+Flag: - file://yDJ7Ypqrk2Nvfby2
+
+----
+
+Globe: - file://SrZOFL5nHaXVKLKl
+
+----
+
+Aboutstate: <p>Historically part of the Calabar Kingdom, the Bakassi Peninsula’s chiefdoms in Western Africa acknowledged the Obong of Calabar as king. Paying tribute to Calabar was part of peninsula life, though the inhabitants were mostly left to the authority of tribal chiefs.The region was devastated by the spread of the slave trade in the 1700s. In 1884 Britain annexed the Calabar Kingdom, signing an imprecise treaty with Germany that divided the Niger Delta, leaving Bakassi in German territory though administered by the British through Calabar.</p><p>The Bakassi are a part of the Oron people of Akwa Ibom and Cross River states in Nigeria, in the ethnic cluster known as Calabar. The Oron clans, isolated on the Bakassi Peninsula, developed a distinct culture around some of Africa’s best fishing grounds. Their language is a regional dialect of the Oro language. The majority are Christians, most also preserving their traditional beliefs that form part of the peninsula’s rich culture expressed in songs, folklore, and dance.</p><p>Bakassi formed part of British Nigeria, though the border was never delineated. Following Nigerian independence in 1960, the Southern Cameroons voted to leave Nigeria and join Cameroon in 1961, though Bakassi remained under Nigerian rule. The discovery of potential oil deposits resulted in Cameroon claiming the peninsula based on the British-German colonial agreement. The dispute was taken to the International Court of Justice in 2002, which upheld Cameroon’s claim. As Nigeria prepared to cede Bakassi to Cameroon, local leaders declared the peninsula an independent republic in 2006 and reiterated.</p>
+
+----
+
+Independence: 2017-08-01
+
+----
+
+Population: 150,000–300,000
+
+----
+
+Populationnote: 2015 Estimate
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Oron
+- 
+  ethnicgroup: Akwa Ibom
+- 
+  ethnicgroup: Cross River Tribes
+
+----
+
+Memberships:
+
+- 
+  organisation: UUN
+- 
+  organisation: African Federation of Free States
+
+----
+
+Map: - file://mYpSuCBIXjvcUh8I
+
+----
+
+Theme: 
+
+----
+
+Meta-description: 
+
+----
+
+Flagborder: false
+
+----
+
+Languages:
+
+- 
+  language: Oro
+
+----
+
+Mapsize: col-7
+
+----
+
+Religions:
+
+- 
+  religion: Christian
+
+----
+
+References: 
+
+----
+
+Capital: N/A
+
+----
+
+Uuid: afzQzvOnMYjA3Y8E

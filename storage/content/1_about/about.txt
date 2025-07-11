@@ -1,0 +1,155 @@
+Title: About
+
+----
+
+Mainintro: ‘A compendium of Stateless Nations’ (Title TBC) is an independent project started in 2017 (but will inevitably run through 2018) to document the current ethnic peoples and nation groups with ‘de-facto’ or limited recognition seeking be internationally recognized sovereign states
+
+----
+
+Worldmap: - file://ON6pW76NgGgnSyjM
+
+----
+
+Intro: ‘A compendium of Stateless Nations’ (Title TBC) is an independent project started in 2017 (but will inevitably run through 2018) to document the current ethnic peoples and nation groups with ‘de-facto’ or limited recognition seeking be internationally recognized sovereign states
+
+----
+
+Maintext:
+
+Some of the states have declared independence or held referendum on Independence but have not been recognised by larger sovereign state in which they exist.
+
+Only a selection peoples and states seeking independence have been included in this compendium and they form only a fraction of nearly 420 peoples and ethnic groups seeking recognition, greater autonomy or independence worldwide. 
+
+Certain states have been excluded from this list for various reasons. States like Kosovo and Taiwan, both members of the UNPO, are recognised by some UN member states but do not exist in the eyes of a number of others. Israel, Palestine and the Sahrawi Arab Democratic Republic are also not listed for the same reason. States with very limited or insufficient references to be verified where excluded but could later be added with sufficient information is found.
+
+[As there is no universally accepted definition of “nation,” “state,” or “country,” the subject generates debates, tensions, and numerous conflicts.]
+
+----
+
+Criteriaintro: To keep the list focused and concise the groups chosen for inclusion were narrowed by following a brief criteria:
+
+----
+
+Criteriamaintext:
+
+**Have not been admitted to** the United Nations General Assembly, (UNGA) and do not have widespread recognition as a sovereign state.
+
+**Self-identify as a unified group i**n the form of a flag, some form of government and claim to territory.
+
+**Be seeking independence** from larger recognised states, not ethnic recognition, autonomy or self governance.
+
+**Be a member of** at least one of the following established parallel international or intergovernmental communities or organisations:
+
+- The Unrepresented Nations and Peoples Organisation (UNPO)
+- The Unrepresented United Nations (UNN)
+- The Organisation of Emerging African States (OEAS) 
+- The Community for Democracy and Rights of Nations 
+- The European Free Alliance (EFA)
+
+----
+
+Organisations:
+
+- 
+  organisationname: UNPO
+  organisationtext: >
+    The Unrepresented Nations and Peoples
+    Organisation, or simply UNPO is an
+    international organisation established
+    to facilitate the voices of
+    unrepresented and marginalised nations
+    and peoples worldwide.
+  organisationurl: https://www.unpo.org/
+- 
+  organisationname: UUN
+  organisationtext: >
+    The Unrepresented United Nations (UUN)
+    main objective IS to assist and
+    represent Unrepresented Nations and
+    Peoples, Under-represented Nations and
+    Peoples, De Jure States, De Facto States
+    or Misrepresented Nations and Peoples,
+    Micronations, so that they may express
+    their position in the appropriate forums
+    and obtain recognition, since they
+    cannot in the United Nations General
+    Assembly.
+  organisationurl: >
+    https://www.unrepresentedunitednations.org/
+- 
+  organisationname: OEAS
+  organisationtext: >
+    The Organization of Emerging African
+    States (OEAS) whos members all seek self
+    determination and believe self
+    determination to be inevitable.
+  organisationurl: http://www.oeas.net/
+- 
+  organisationname: >
+    The Community for Democracy and Rights
+    of Nations
+  organisationtext: >
+    The Community for Democracy and Rights
+    of Nations , commonly known as
+    Commonwealth of Unrecognized States, is
+    an international organisation uniting
+    several states in the former Soviet
+    Union, all of which have limited
+    recognition from the international
+    community.
+  organisationurl: http://www.geo-ref.net/en/t-cdrn.htm
+- 
+  organisationname: EFA
+  organisationtext: 'The European Free Alliance (EFA)  whos activity is on the promotion of the right of self-determination of peoples, human, civil and political rights, democracy, internal enlargement, multi-level governance, devolution of powers, cultural and linguistic diversity; as well as on nationalism, regionalism, autonomy and independence.'
+  organisationurl: https://e-f-a.org/
+
+----
+
+Disclaimer:
+
+The content in this project, both image written, has been verified and validated through open-sources such as news reports, official websites of the de-states listed, books, peer-reviewed academic articles, government non-governmental organisation reports. 
+
+It is not always possible to find and verify all information provided and some inexactness may occur. This project is to serve as a compendium of unrecognised states, it should not be interpreted as an endorsement or recognition of their validity.
+
+----
+
+Files: 
+
+----
+
+Uuid: CSg0uTPwbmJoLnHS
+
+----
+
+Flag:
+
+- 
+  id: worldmap.svg
+  image:
+    back: pattern
+    color: orange-500
+    cover: true
+    icon: image
+    ratio: 3/2
+    url: >
+      http://stateless-nations.test/media/pages/about/1ee171d86f-1718024639/worldmap.svg
+    src: >
+      http://stateless-nations.test/media/pages/about/1ee171d86f-1718024639/worldmap.svg
+  info: ""
+  link: /pages/about/files/worldmap.svg
+  sortable: true
+  text: worldmap.svg
+  uuid: file://ON6pW76NgGgnSyjM
+  dragText: '(image: worldmap.svg)'
+  filename: worldmap.svg
+  type: image
+  url: >
+    http://stateless-nations.test/media/pages/about/1ee171d86f-1718024639/worldmap.svg
+
+----
+
+Organisationsmain:
+
+**Self-identify as a unified group i**n the form of a flag, some form of government and claim to territory.
+
+**Be seeking independence** from larger recognised states, not ethnic recognition, autonomy or self governance.

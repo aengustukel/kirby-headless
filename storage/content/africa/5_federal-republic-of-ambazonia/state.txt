@@ -1,0 +1,103 @@
+Title: Federal Republic of Ambazonia
+
+----
+
+Localname: Ambazonia | Amba Land
+
+----
+
+Continent: Africa
+
+----
+
+Location: Cameroon
+
+----
+
+Flag: - file://vttBVVApsRpTsaVI
+
+----
+
+Globe: - file://z6Ri5I466WPLORL1
+
+----
+
+Aboutstate:
+
+Bantu tribes moved into the highlands of present-day Cameroon to escape Muslim invaders in the eleventh century CE. Some 90 small tribal states emerged, often warring among themselves. The states united in the 1400s and 1500s to form a powerful confederation. The confederation began to decline in the 1790s, with Fulani Muslims raiding the region, seeking slaves and loot. The slave trade, both among the coastal Europeans and the northern Muslims, was largely suppressed by the British in the 1800s. In 1884 several chiefs signed treaties that laid the foundation for German colonization.
+
+The Southern Cameroonians encompass at least 50 tribal groups united by the English language and their distinct history. The regional culture combines Bantu traditions with British colonial influences in a culture that emphasizes its British past and the English language. The Southern Cameroonians speak dozens of Bantu languages but use an English pidgin for intergroup communications. Most Southern Cameroonians are Christian, usually mixing rituals with pre-Christian customs.
+
+Taken by the Allies during World War I, German Kamerun was divided into French and British zones that divided tribal groups. Inclusion of the Southern Cameroons in British Nigeria in 1953 generated demands for a separate government, with the region made a federal territory with its own legislature in 1954. In 1961, offered union with Nigeria or Cameroon, the Southern Cameroonians voted to join Cameroon. The Cameroonian government promised federal status, but in 1972 all autonomy ended, with French introduced as the language of education and administration. By the 1980s a strong nationalism had formed around the English-speaking leadership. Unable to obtain cultural and linguistic rights within French-speaking Cameroon, nationalists declared the independence of the Southern Cameroons in 1999 and again as the Republic of Ambazonia in 2006.
+
+----
+
+Independence: 2006-01-01
+
+----
+
+Population: 3,521,900
+
+----
+
+Populationnote: 2015 Estimate
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Ambazonian
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Map: - file://GLQCDgcCpR8QKiia
+
+----
+
+Theme: class-name-here-3
+
+----
+
+Meta-description: 
+
+----
+
+Flagborder: false
+
+----
+
+Languages:
+
+- 
+  language: English
+
+----
+
+Mapsize: col-7
+
+----
+
+Capital: Buea
+
+----
+
+Religions:
+
+- 
+  religion: Christian
+
+----
+
+References: 
+
+----
+
+Uuid: 01GPSDUTp9pCFjfS

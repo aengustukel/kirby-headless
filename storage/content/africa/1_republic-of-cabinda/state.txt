@@ -1,0 +1,101 @@
+Title: Republic of Cabinda
+
+----
+
+Localname: Kabinda Free State
+
+----
+
+Continent: Africa
+
+----
+
+Location: Angola
+
+----
+
+Flag: - republic_of_cabinda_flag.gif
+
+----
+
+Flagborder: true
+
+----
+
+Globe: - angolamap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Aboutstate:
+
+Bantu tribes settled the vast Congo River basin before 1100 CE. The Kongo Kingdom united the tribes south of the Congo River in the 1200s. Kongo gradually expanded to control vassal states north of the river. Portuguese explorers arrived in 1493, beginning European contact with the region. Eventually divided between Portugal, Belgium, and France, the ordered Kongo Kingdom rapidly declined under harsh colonialism and the accompanying slave trade. In 1884 the Europeans demarcated the colonial boundaries, including a Portuguese cession of territory north of the Congo River to give the Belgian Congo an outlet to the Atlantic, leaving Portuguese Congo as an enclave separated from Angola by 25 miles (40 km) of Belgian territory and populated by a group known as the Cabindans.
+
+The Cabindans see themselves as a separate nation, though historically they formed part of the large Bakongo ethnic group. The Cabindans’ history and their long fight for separate independence resulted in the development of the distinct Cabindan identity. The Cabindans speak the Ibinda dialect of Kikongo, a dialect claimed as their national language.
+
+Most are Roman Catholic, often incorporating pre-Christian customs that are important elements in the Cabindan culture.
+
+Known principally for poverty and forced labor, Portuguese Congo was added to the Portuguese Angola colony in 1956, generating a nationalist revolt. Offshore oil fields, discovered in 1967, give the national movement a strong economic base. Nationalism gained support in the 1960s and 1970s, and in 1975 the Cabindans declared independence, three months before Angola gained independence. Cabindan leaders continue to demand a referendum on the enclave’s future, though the Angolan government rejects any moves that would jeopardize access to Cabinda’s lucrative oil fields.
+
+----
+
+Independence: 1975-08-01
+
+----
+
+Population: 350,000–600,000
+
+----
+
+Populationnote: 2015 Estimate
+
+----
+
+Languages:
+
+- 
+  language: Kikongo
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Bakongo
+
+----
+
+Religions:
+
+- 
+  religion: Catholic
+
+----
+
+References: 
+
+----
+
+Map: - cabindamap.png
+
+----
+
+Mapsize: col-9
+
+----
+
+Meta-description: 
+
+----
+
+Capital: Cabinda
+
+----
+
+Uuid: xVKhdwv6IofYXH0I

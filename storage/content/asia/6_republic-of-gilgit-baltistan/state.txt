@@ -1,0 +1,87 @@
+Title: Republic of Gilgit-Baltistan
+
+----
+
+Localname: Republic of Balawaristan
+
+----
+
+Continent: Asia
+
+----
+
+Location: Pakistan
+
+----
+
+Flag:
+
+- gilitbaltistanflag.jpg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The push for independence in Gilgit-Baltistan can be traced back to the 1960s and 1970s, when a number of nationalist groups were formed to advocate for greater rights and autonomy for the people of the region. These groups were motivated by a desire to protect the unique cultural and linguistic heritage of Gilgit-Baltistan, which they felt was being threatened by the Pakistani government.
+
+Since then, the Gilgit-Baltistan independence movement has grown and evolved, with a number of different organizations and political parties advocating for greater autonomy or independence for the region. The movement has been driven by a range of factors, including economic grievances, political dissatisfaction, and cultural identity.
+
+One of the key demands of the independence movement has been greater control over natural resources. Gilgit-Baltistan is rich in natural resources, including minerals, forests, and water, and many people in the region believe that they are not receiving a fair share of the benefits from these resources. In addition, they argue that the Pakistani government has not adequately invested in the region, leading to poor infrastructure, limited access to education and healthcare, and high levels of poverty.
+
+Another important issue has been the lack of representation in the Pakistani government. Despite being part of Pakistan, Gilgit-Baltistan does not have full representation in the Pakistani parliament, and many people in the region feel that their voices are not being heard in the political process.
+
+The Gilgit-Baltistan independence movement has faced significant challenges, including repression by the Pakistani security forces and limited support from the international community. However, despite these difficulties, the movement continues to grow and evolve, and remains an important political and social issue in the region. The future of Gilgit-Baltistan and its relationship with Pakistan remains uncertain, but the cause of independence continues to be a matter of ongoing political and social debate.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- gilitbaltistanmap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

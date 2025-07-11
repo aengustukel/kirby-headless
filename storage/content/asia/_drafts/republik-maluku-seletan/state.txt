@@ -1,0 +1,85 @@
+Title: Republik Maluku Seletan
+
+----
+
+Localname: Republik Maluku Seletan
+
+----
+
+Continent: Asia
+
+----
+
+Location: Indonesia
+
+----
+
+Flag: 
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The South Moluccan independence movement, also known as the RMS (Republic of South Moluccas) movement, is a separatist movement seeking independence for the islands of Maluku, also known as the Moluccas, in eastern Indonesia.
+
+The movement began in the 1950s, shortly after Indonesia gained independence from Dutch colonial rule. At the time, some Moluccan leaders believed that the region should have been granted separate independence from Indonesia, rather than being incorporated into the new nation.
+
+The RMS movement gained momentum in the 1960s and 1970s, with some Moluccans forming armed groups and launching attacks against the Indonesian government. In 1975, a group of South Moluccans hijacked a train in the Netherlands, demanding independence for the region.
+
+The Indonesian government responded to the insurgency with a heavy-handed military campaign, which included widespread human rights abuses. The conflict eventually petered out in the 1980s, with many of the RMS leaders either killed, captured, or exiled.
+
+Despite this, there are still some Moluccans who continue to advocate for independence, and sporadic violence and unrest have occurred in the region in recent years. However, the movement is largely seen as being dormant, and there is little chance of it gaining significant support or achieving independence in the near future.
+
+The Indonesian government has taken steps to address some of the grievances of Moluccans, including by devolving more power to local governments and investing in infrastructure and development projects in the region. Nevertheless, some Moluccans remain discontented with their treatment by the central government and continue to demand greater autonomy or independence.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: 
+
+----
+
+Mapsize: 
+
+----
+
+Meta-description: 

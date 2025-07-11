@@ -1,0 +1,87 @@
+Title: United Republic of Balochistan
+
+----
+
+Localname: 
+
+----
+
+Continent: Asia
+
+----
+
+Location: Pakistan
+
+----
+
+Flag:
+
+- balochistanflag.jpg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+Balochistan has a long and complex history, with its roots stretching back to the ancient times. Historically, the region was home to a number of independent and semi-independent states, and its people have maintained a strong sense of cultural and linguistic distinctiveness.
+
+In the 19th and early 20th centuries, the British colonial authorities controlled the region and treated it as a separate entity from the rest of India. After the partition of India in 1947 and the formation of Pakistan, Balochistan became part of the new country, but many people in the region felt that they were not adequately consulted or represented in the decision-making process.
+
+Over the next few decades, the Balochistan independence movement developed, as people in the region sought greater control over their own affairs and greater representation in the political process. The movement was influenced by a number of factors, including political dissatisfaction, cultural identity, and economic grievances.
+
+In the 1970s and 1980s, the Balochistan independence movement became more vocal and organized, with a number of political parties and militant groups emerging to advocate for greater rights and autonomy for the region. This led to increased repression by the Pakistani government, including military operations and widespread human rights abuses.
+
+Despite these challenges, the Balochistan independence movement has continued to grow and evolve over the years, and remains an important political and social issue in the region. The future of Balochistan and its relationship with Pakistan remains uncertain, but the cause of independence continues to be a matter of ongoing political and social debate.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- balochistanmap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

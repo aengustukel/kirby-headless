@@ -1,0 +1,87 @@
+Title: Federal Republic of West Papua
+
+----
+
+Localname: Republik Federal Papua Barat
+
+----
+
+Continent: Asia
+
+----
+
+Location: Indonesia
+
+----
+
+Flag:
+
+- westpaupaflag.jpg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The West Papua independence movement is a separatist movement seeking independence for the Indonesian province of West Papua. The movement began in the 1960s, shortly after Indonesia gained independence from Dutch colonial rule, when West Papua was incorporated into Indonesia in a disputed and controversial process.
+
+The movement has been largely peaceful, but has faced repression and human rights abuses from the Indonesian government. The Free Papua Movement (OPM) was established in 1965 to lead the independence movement, and has been involved in numerous conflicts with the Indonesian military over the years.
+
+The West Papua independence movement has gained international attention in recent years, with human rights organizations, international governments, and civil society groups calling for an end to the Indonesian government's repression of West Papuan activists and the right to self-determination for West Papuans.
+
+However, the Indonesian government maintains that West Papua is an integral part of Indonesia, and has cracked down on any attempts to organize or mobilize for independence. This has included the arrest and imprisonment of activists, journalists, and political leaders, as well as violent suppression of peaceful demonstrations.
+
+Despite this repression, the West Papua independence movement has continued to gain support both domestically and internationally, with many activists advocating for a peaceful resolution to the conflict through dialogue and negotiation with the Indonesian government. Some have called for a referendum on independence for West Papua, similar to the one held in East Timor in 1999.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- westpaupamap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

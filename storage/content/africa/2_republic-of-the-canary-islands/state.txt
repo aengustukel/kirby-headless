@@ -1,0 +1,87 @@
+Title: Republic of the Canary Islands
+
+----
+
+Localname: Republica Federal Canaria (Federal Republic of the Canary Islands)
+
+----
+
+Continent: Africa
+
+----
+
+Location: Spain
+
+----
+
+Flag: - canaryislandsflag.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - spainmap.png
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+Named for wild dogs, canis in the Latin language, the Canary Islands were considered the limit of the ancient world. Fair Berbers that arrived with colonists from ancient Carthage were abandoned after the Roman destruction of Carthage in 146 BCE and quickly regressed to a tribal existence. Forgotten during the Dark Ages, the islands were encountered again in 1341. Colonized from Andalucia, the indigenous Guanches rapidly disappeared, either exterminated or absorbed. The islands became important stops on the trade routes to the Americas but were mostly ignored following the independence of Spain’s Americancolonies in the early 1800s. The islands officially remained a colony until incorporated into the Spanish state in 1927.
+
+The Canarians, sometimes known as Islenos, show a high incidence of fair hair and eyes, considered a legacy of the original Berber inhabitants. They often refer to mainland Spaniards as Goths, after Spain’s early medieval conquerors. The Canarians were isolated for centuries, and because of this, they developed a distinct culture and a unique Spanish dialect known as Canario. Considered the most conservative people in Spain, the Canarians are overwhelmingly Roman Catholic.
+
+Tourism beginning in the 1950s brought much-needed income and development. Influenced by African decolonization, nationalists organized to demand independence in the 1960s. A 1977 separatist bombing at Las Palmas Airport on Grand Canary Island forced a Pan American 747 to divert to overcrowded Los Rodeos Airport on Tenerife. A runway collision between the American jet and a Dutch 747 resulted in the deaths of 583 people, the worst disaster in aviation history. The disaster horrified the Canarians, resulting in a dramatic loss of separatist support, though by the early 2000s nationalism was again an important element in island politics.
+
+----
+
+Independence: 
+
+----
+
+Population: 1.8-2 Million
+
+----
+
+Populationnote: 2015 Estimate
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: - canaryisland.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Capital: 
+
+----
+
+Uuid: ZxdneEGzLpfgirYG

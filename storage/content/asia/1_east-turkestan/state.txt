@@ -1,0 +1,101 @@
+Title: East Turkestan
+
+----
+
+Localname: Doğu Türkistan | Uyghuristan | شەرقىي تۈركىستان‎
+
+----
+
+Continent: Asia
+
+----
+
+Location: China
+
+----
+
+Flag:
+
+- eastturkestanflag.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe:
+
+- chinamap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: Member of UNPO
+
+----
+
+Aboutstate:
+
+The East Turkestan independence movement has roots in the late 19th and early 20th centuries, when the region was gradually incorporated into the Chinese Empire. In the 1930s and 1940s, the region saw brief periods of independence as the East Turkestan Republic, but these were short-lived and the region was eventually reabsorbed into the People's Republic of China in 1949.
+
+Since then, the Chinese government has maintained control over the region and has implemented a series of policies aimed at promoting economic development and cultural assimilation, leading to increased tensions with the Uyghur population. In the 1990s and early 2000s, sporadic outbreaks of violence and acts of terrorism were carried out by Uyghur separatist groups, and the Chinese government has responded with increased security measures.
+
+Despite the efforts of the Chinese government to suppress the independence movement, it continues to persist, with some Uyghur activists advocating for greater autonomy or even full independence for the region. However, these efforts have been met with resistance from the Chinese government, which views the region as an integral part of its territory and has consistently rejected calls for independence.
+
+----
+
+Independence: 
+
+----
+
+Population: 350,000–600,000
+
+----
+
+Populationnote: 2015 ESTIAMTE
+
+----
+
+Languages:
+
+- 
+  language: Kikongo
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Bakongo
+
+----
+
+Religions:
+
+- 
+  religion: Catholic
+
+----
+
+References: 
+
+----
+
+Map:
+
+- eastturkestanmap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Capital: Cabinda

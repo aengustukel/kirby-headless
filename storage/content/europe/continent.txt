@@ -1,0 +1,12 @@
+Title: Europe
+
+----
+
+Cover:
+
+- >
+  europe_orthographic_caucasus_urals_boundary.png
+
+----
+
+Uuid: Iz2AVOPYhUbksiBR

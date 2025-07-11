@@ -1,0 +1,29 @@
+title: Continent
+
+columns:
+  left:
+    width: 1/3
+    sections:         
+      content:
+        type: fields
+        fields:
+          cover:
+            headline: "{{ page.title }}"
+            type: files
+            layout: cards
+            max: 1
+            size: large
+            image:
+              back: white
+        
+  right:
+    width: 2/3
+    sections:
+      listed-pages:
+        headline: States
+        type: pages 
+        layout: list
+        image: page.flag.toFile
+        sortBy: title
+        template:
+          - state     

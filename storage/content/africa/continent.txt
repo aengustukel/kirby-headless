@@ -1,0 +1,13 @@
+Title: Africa
+
+----
+
+Cover: - africa.png
+
+----
+
+Continent-location: - africa.png
+
+----
+
+Uuid: 8vq4FCle4HA4LG6A

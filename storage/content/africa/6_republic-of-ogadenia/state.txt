@@ -1,0 +1,89 @@
+Title: Republic of Ogadenia
+
+----
+
+Localname: Jumhurriyadda Ogaadeeniya
+
+----
+
+Continent: Africa
+
+----
+
+Location: Ethiopia
+
+----
+
+Flag:
+
+- >
+  flag_of_ogaden_national_liberation_front.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - ethiopiamap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Aboutstate:
+
+Nomadic tribes have roamed the Ogaden Desert since ancient times. Islam spread inland from the Somali ports in the 700s CE. The Ogaden clans mostly remained free of the control of the coastal Somali states, though the Muslim peoples united to wage holy war on Christian Ethiopia between 1529 and 1542 but failed to take the Christian mountain strongholds. With Portuguese aid, the Ethiopians rallied and drove the Muslims back to the Ogaden. The war continued sporadically for centuries. The Ethiopians conquered Harar, the Ogadeni capital, in 1887. While Europeans colonized coastal Somalia, the Ethiopians retained Ogaden.
+
+The Ogadenis are of mixed Somali and Oromo background, traditionally encompassing the Western Somali clans. The society is based on clans divided into nuclear families and the family herd of sheep, goats, and camels. The more camels a family possesses, the greater their prestige. The Ogadeni language encompasses the western dialects of Somali, a Lowland East Cushitic language of the Cushitic language group. Unlike standard Somali, which is written in the Latin script, Ogadeni is written in the Ethiopian alphabet. Most Ogadenis are Sunni Muslims of the Shafi’i school.
+
+In 1935 the Italians invaded Ethiopia from bases in Italian Somaliland, which became part of Italian East Africa. An uprising in 1942 marked the beginning of the Ogadeni national movement. Liberated by British troops, the Ogaden was returned to Ethiopian rule over Ogadeni protests in 1948. Pan-Somali nationalism dedicated to the creation of a “Greater Somalia” generated a 1977 Somali invasion with Ogadeni support, but Ethiopian defeat of the invasion brought harsh reprisals. Civil war in Somalia, beginning in 1986, ended pan-Somalia sentiment. In 1991 a new Ethiopian government divided the country into ethnic states, but limited self-government failed to satisfy nationalists who continue to fight for an independent Ogadenia. In 2015–16 international aid agencies and journalists were not allowed in the Ogaden region.
+
+----
+
+Independence: 
+
+----
+
+Population: 4-5 Million
+
+----
+
+Populationnote: 2015 Estiamte
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: - ogadeniamap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Uuid: DjnZvbWQgshHRAvC

@@ -1,0 +1,87 @@
+Title: Republic of South Arabia
+
+----
+
+Localname: Jumhurıyat Al-Janub Al-Earabi
+
+----
+
+Continent: Asia
+
+----
+
+Location: Yemen
+
+----
+
+Flag:
+
+- flag_of_south_yemen.svg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The roots of the independence movement in South Yemen can be traced back to the 1960s and 1970s, when the region was still a British colony known as South Arabia. During this time, a number of nationalist and Marxist movements emerged, calling for greater rights and independence for the people of the region.
+
+After the independence of South Yemen in 1967, the country became one of the first Marxist states in the Arab world, and was marked by close ties with the Soviet Union and other socialist states. Despite this, the country faced significant economic and political challenges, including internal political struggles and a struggling economy.
+
+In 1990, South Yemen was united with the Yemen Arab Republic to form the present-day Republic of Yemen. Despite initial hopes for a successful unification, many people in South Yemen felt that their rights and interests were not adequately represented by the new government, and that they were being politically and economically marginalized.
+
+Over the past several decades, these feelings of political marginalization have fueled the independence movement in South Yemen, as people in the region have sought greater control over their own affairs and a more equitable distribution of resources. The movement has faced significant challenges, including opposition from the government of the Republic of Yemen, limited international support, and ongoing conflict and instability in the region.
+
+Despite these challenges, the independence movement in South Yemen continues to grow and evolve, and remains an important political and social issue in the region. The future of South Yemen and its relationship with the rest of the country remains uncertain, but the cause of independence continues to be a matter of ongoing political and social debate.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- southarabiamap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

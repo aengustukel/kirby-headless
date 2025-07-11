@@ -1,0 +1,107 @@
+Title: Kabylia
+
+----
+
+Localname: Tamurt n Yiqbayliyen
+
+----
+
+Continent: Africa
+
+----
+
+Location: Algeria
+
+----
+
+Flag: - flag-kabylia.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - algeriamap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Aboutstate:
+
+Inhabited by indigenous Berbers related to the ancient Europeans, North Africa came under Roman rule from 46 BCE. In the fifth century CE, Germanic Vandals invaded North Africa, their wanton destruction giving us the modern word “vandalism.” Arabs overran North Africa in the late 600s, suffering a rare defeat by the Berber Kabyles in 703 CE. Many Kabyles fled to the mountains, where their culture and language survived, though Islam was adopted over the next centuries. The Turks took Algiers in 1518 but mostly left the Kabyles to rule themselves. The French invasion of Algeria in 1830 encountered the fiercest anticolonial resistance in Kabylia.
+
+The Kabyles are one of the indigenous Berber peoples of North Africa. Often fair and light-eyed, physically they more closely resemble Europeans. Traditionally Kabyle culture allows unveiled women great respect and social stature. Overpopulation and a lack of opportunities force many Kabyles to immigrate, mostly to France. The language, Tamaziyt Taqbaylit, belongs to the Northern Berber languages. The majority are Sunni Muslims, with important Ibadi Muslim and Catholic minorities.
+
+Kabyle lands were parceled out to arriving French colonists, generating uprisings in 1876 and 1882. Arab-Berber tensions erupted, with only the French presence preventing civil war in 1934. A Kabyle rebellion in 1945 was suppressed with brutal efficiency. Promised equality, the Kabyles supported the war that led to Algerian independence in 1962. Betrayed by the country they had sacrificed so much to win, the Kabyles lost even the cultural and linguistic rights they had under colonial rule. Arab-Berber tensions again exploded in violence during the Berber Spring in 1980 and the Black Spring in 2001. Many nationalists, particularly in the diaspora, seek separate independence for Kabylia. Nationalists proclaimed a provisional government in 2010 as a step toward total independence. In early 2016 the Algerian Government granted the Berber language official status.
+
+----
+
+Independence: 2016-01-01
+
+----
+
+Population: 5.5-7 Million
+
+----
+
+Populationnote: 2015 Estiamte
+
+----
+
+Languages:
+
+- 
+  language: Tamaziyt Taqbaylit
+- 
+  language: French
+- 
+  language: Algerian Arabic
+
+----
+
+Ethnicgroups:
+
+- 
+  ethnicgroup: Berber
+
+----
+
+Map: - kabyliamapred.jpg
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Capital: 
+
+----
+
+Religions:
+
+- 
+  religion: Sunni muslim
+- 
+  religion: Ibadi Muslim
+- 
+  religion: Catholic
+
+----
+
+References: 
+
+----
+
+Uuid: sW0jkWfYTpeFCzl1

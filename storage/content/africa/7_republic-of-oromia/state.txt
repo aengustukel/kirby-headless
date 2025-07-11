@@ -1,0 +1,86 @@
+Title: Republic of Oromia
+
+----
+
+Localname: Gada Democratic Republic of Oromiyya
+
+----
+
+Continent: Africa
+
+----
+
+Location: Ethiopia
+
+----
+
+Flag: - flag_of_the_oromo_liberation_front.png
+
+----
+
+Flagborder: false
+
+----
+
+Globe: - ethiopiamap.png
+
+----
+
+Memberships:
+
+- 
+  organisation: UNPO
+
+----
+
+Aboutstate:
+
+Oromos have inhabited central Ethiopia for over 1,000 years and have evolved a distinct social, political, and legal system called gadaa. Nomadic clans moved into the Ethiopian highlands in search of better grazing lands in the 1500s and 1600s, while others moved south. Those in the highlands mixed with the Amhara and accepted Christianity. Oromos held high positions in the Ethiopian Empire in the eighteenth and nineteenth centuries. The Oromos in the east adopted Islam, and in the south they retained traditional beliefs. In 1883 Addis Ababa was founded in Oromo territory, partly to ensure Oromo loyalty.
+
+The Oromo culture encompasses 16 tribes representing diverse cultural, linguistic, and political backgrounds. Considered the indigenous people of the Horn of Africa, the Oromos form Ethiopia’s largest ethnic group. The Oromo language, Afaan Oromo, is an East Cushitic language spoken in numerous dialects. About half the Oromos are Sunni Muslim, a third are Ethiopian Orthodox, with smaller Protestant or traditional communities.
+
+In the early 1900s, the Ethiopians conquered Jimma, Kaffa, and the other independent Oromo states in the south. Resistance to Christian rule provoked frequent rebellions, particularly serious in 1928–30, an uprising that is considered the forerunner of the modern Oromo national movement. Oromo nationalists led a secessionist uprising in the southwest in 1936. The movement was suppressed by imperial troops, including many ethnic Oromo soldiers, until the revolt was overtaken by the Italian conquest of Ethiopia. A rebellion broke out in 1963 among the southern clans, continuing sporadically until 1970. Continuing instability, civil wars, and upheavals in Ethiopia between the 1980s and 2010s have reinforced nationalist demands for an independent Oromia. In early 2016 the Ethiopian government warned that it would take severe measures against the separatist movement spreading through Oromia.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: - oromiamap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 
+
+----
+
+Uuid: cyJ9Tgkuh4GODpCb

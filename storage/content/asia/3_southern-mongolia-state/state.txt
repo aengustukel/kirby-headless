@@ -1,0 +1,85 @@
+Title: Southern Mongolia State
+
+----
+
+Localname: Ömnöd Monggol Ulus
+
+----
+
+Continent: Asia
+
+----
+
+Location: China
+
+----
+
+Flag:
+
+- southernmongoliaflag.svg
+
+----
+
+Flagborder: false
+
+----
+
+Globe:
+
+- chinamap.png
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The historical claims for independence in Southern Mongolia can be traced back to the Mongol Empire, which was established in the 13th century and covered a vast area including much of Asia and Eastern Europe. Following the collapse of the Mongol Empire, the region became part of the Manchu-led Qing dynasty in China. After the fall of the Qing dynasty in 1911, Mongolians attempted to establish their own independent state, but it was short-lived and the region was eventually incorporated into the newly established Republic of China.
+
+During the 20th century, the cultural, economic, and political rights of ethnic Mongolians in Southern Mongolia were suppressed by the Chinese government. This led to calls for greater autonomy and independence, with some activists advocating for the restoration of a Mongolian state in the region. However, these demands have not been successful and the Chinese government has taken measures to suppress any form of independence movement.
+
+Despite this, there is a growing cultural revival among ethnic Mongolians in Southern Mongolia, with some promoting their language, traditions, and heritage. Additionally, there have been ongoing discussions and activism regarding the protection of the environment, as well as the rights of ethnic Mongolian herders, who have faced displacement and land confiscation by the Chinese government.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- southernmongoliamap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

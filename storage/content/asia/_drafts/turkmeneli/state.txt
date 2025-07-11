@@ -1,0 +1,83 @@
+Title: Turkmeneli
+
+----
+
+Localname: Bayirbucak
+
+----
+
+Continent: Asia
+
+----
+
+Location: Iraq
+
+----
+
+Flag:
+
+- turkmeneliflag.svg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+In Iraq, the Turkmen have traditionally lived in the northern regions of the country, including the city of Kirkuk and surrounding areas. This region, known as Turkmeneli, has been a site of contestation between different ethnic and religious groups for centuries.
+
+Under Ottoman rule in the 19th and early 20th centuries, the Turkmen of northern Iraq were granted a degree of autonomy and self-governance. However, following the collapse of the Ottoman Empire and the establishment of Iraq as a modern state in the 1920s, the Turkmen lost much of their political and cultural autonomy.
+
+Under the regime of Saddam Hussein, the Turkmen of northern Iraq faced significant repression and discrimination, as Saddam's regime prioritized the interests of the Sunni Arab elite and sought to suppress ethnic and religious minority groups. Many Turkmen were forcibly displaced or killed, and the region's infrastructure and economy were badly damaged.
+
+Following the US-led invasion of Iraq in 2003, the Turkmen of northern Iraq saw an opportunity to press for greater political and cultural autonomy. However, the issue of Turkmeneli autonomy has been largely overshadowed by the larger political and security challenges facing Iraq in the aftermath of the invasion. While some Turkmen leaders have called for greater representation and protection of Turkmen rights within Iraq, there has been no sustained movement for independence or separatism. The region has remained heavily contested, with competing claims from Kurdish, Arab, and Turkmen groups over control of Kirkuk and other key areas. The issue of Turkmeneli autonomy remains a highly sensitive and divisive topic in Iraq today.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: 
+
+----
+
+Mapsize: 
+
+----
+
+Meta-description: 

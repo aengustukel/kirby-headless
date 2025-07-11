@@ -1,0 +1,87 @@
+Title: Republic of Sindhudesh
+
+----
+
+Localname: Sindhi Country
+
+----
+
+Continent: Asia
+
+----
+
+Location: Pakistan
+
+----
+
+Flag:
+
+- sindhudeshflag.jpg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The Sindhi people have a long history of cultural and linguistic distinctiveness, dating back to ancient times. The Sindh region has been ruled by a number of different kingdoms and empires over the centuries, including the Hindu Shahi dynasty, the Arab Umayyads, the Turkic Ghaznavids, and the Mughal Empire.
+
+After the partition of India in 1947, the Sindh region became part of the newly created country of Pakistan. However, many Sindhi people felt that their cultural and political rights were not adequately respected by the Pakistani government, and this led to the development of a Sindhi independence movement in the 1970s and 1980s.
+
+During this time, a number of Sindhi nationalist groups were formed to push for greater rights and autonomy for the Sindh region. These groups advocated for a range of demands, including greater control over natural resources, more representation in the Pakistani government, and protection for the Sindhi language and culture.
+
+The Pakistani government has generally been resistant to these demands, viewing them as a threat to the unity of the country. As a result, the Sindhi independence movement has faced significant challenges, including repression by the Pakistani security forces and limited support from the international community. Despite these challenges, the movement continues to advocate for the rights of the Sindhi people and to work towards greater autonomy for the Sindh region.
+
+In recent years, the situation in Sindh has become increasingly complex, with a range of political, economic, and social issues contributing to the tensions between the Sindhi people and the Pakistani government. Nevertheless, the cause of Sindhi independence remains a matter of ongoing political and social debate, and the future of the Sindh region and its relationship with Pakistan remains uncertain.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map:
+
+- sindhudeshmap.png
+
+----
+
+Mapsize: col-10
+
+----
+
+Meta-description: 

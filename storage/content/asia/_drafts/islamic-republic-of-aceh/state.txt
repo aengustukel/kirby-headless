@@ -1,0 +1,85 @@
+Title: Islamic Republic of Aceh
+
+----
+
+Localname: Republik Islam Aceh Darussalam
+
+----
+
+Continent: Asia
+
+----
+
+Location: Indonesia
+
+----
+
+Flag:
+
+- acehflag.jpg
+
+----
+
+Flagborder: false
+
+----
+
+Globe: 
+
+----
+
+Memberships: 
+
+----
+
+Aboutstate:
+
+The Aceh Independence Movement, also known as the Free Aceh Movement (GAM), is a separatist movement seeking independence for the Indonesian province of Aceh. The movement began in the mid-20th century and has had several periods of conflict with the Indonesian government.
+
+Aceh is a resource-rich province located at the northern tip of Sumatra Island. The province has a distinct history and culture, with its own language and traditions. The Acehnese people have long been discontented with their treatment by the Indonesian government, which they feel has neglected their region and failed to provide adequate infrastructure and services.
+
+The Aceh independence movement gained momentum in the 1970s and 1980s, with the formation of the Free Aceh Movement (GAM) in 1976. GAM began an armed struggle against the Indonesian government in 1976, with the goal of establishing an independent Acehnese state. The conflict between GAM and the Indonesian government escalated into a full-scale insurgency in the late 1990s, with both sides engaging in violent attacks and human rights abuses.
+
+In 2005, after decades of conflict, the Indonesian government and GAM signed a peace agreement known as the Helsinki Agreement. Under the terms of the agreement, GAM agreed to disarm and renounce its separatist ambitions in exchange for greater autonomy for Aceh. The agreement was largely successful in bringing an end to the conflict, and Aceh has enjoyed a period of relative peace and stability since then.
+
+However, there are still some Acehnese who continue to advocate for independence, and sporadic violence and unrest have occurred in the province in recent years. Despite this, most Acehnese seem to be satisfied with the greater autonomy they have received under the Helsinki Agreement, and there is little appetite for a return to armed conflict.
+
+----
+
+Independence: 
+
+----
+
+Population: 
+
+----
+
+Populationnote: 
+
+----
+
+Languages: 
+
+----
+
+Ethnicgroups: 
+
+----
+
+Religions: 
+
+----
+
+References: 
+
+----
+
+Map: 
+
+----
+
+Mapsize: 
+
+----
+
+Meta-description: 
