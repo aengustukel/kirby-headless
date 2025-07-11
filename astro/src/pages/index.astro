@@ -1,0 +1,16 @@
+---
+const response = await fetch('http://localhost:8000/api/pages/home');
+const page = await response.json();
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{page.title}</title>
+  </head>
+  <body>
+    <h1>{page.title}</h1>
+    <p>{page.headline}</p>
+		<p>{page.subheadline}</p>
+  </body>
+</html>
